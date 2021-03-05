@@ -1,7 +1,5 @@
-// Sample program on Hack assembler lang
 // multiply two numbers
 // RAM[2] = RAM[0] * RAM[1]
-// Author: RiVeRx, Date: 04.03.21
 
 // Clear possible result cache from last iteration.
 @R2
